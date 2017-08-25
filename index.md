@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Interests
+1. DSP (Digital Signal Processing)
+2. Computational intelligence
+3. Frontend Development
+4. Control and automatization systems
 
-You can use the [editor on GitHub](https://github.com/crarojasca/crarojasca.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
